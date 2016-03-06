@@ -1,0 +1,131 @@
+ body{
+	/* Setting default text color, background and a font stack */
+	font-size:13px;
+	font-family:Arial, Helvetica, sans-serif;
+	height: auto;
+	width: auto;
+	background-color: #CCCCCC;
+}
+.b, .c{ display:none;}
+
+#body med{ font-style:normal; font-size:18px;}
+#body em{ font-style:normal; font-size:36px;}
+h1 { font: bold 50px/50px Helvetica, Arial, Sans-serif; text-align: center; color: #eee; text-shadow: 0px 2px 6px #333; }
+h2{ font: bold 36px/36px Helvetica, Arial, Sans-serif; text-align: center; color: #eee; text-shadow: 0px 2px 6px #333; }
+#place{
+	background:#FFFFFF;
+	height:400px;
+	border:solid #000000 px;/*all white portion*/
+	width:940px;
+	padding:14px
+}
+#body {
+	text-align:justify;
+	overflow:hidden;
+	background-color:#333333;
+	border:0px solid #444444;
+	color:#333;
+	background-color:#333;
+	border:1px solid #444;
+	padding:14px;
+	height:430px;
+	width:1000px;
+}
+
+
+
+#sidebar{
+	float: left;
+	height: auto;
+	width: 150px;
+	background-color: #FFFFFF;
+	padding-left: 3px;
+	padding-top: 20px;
+	margin-top: 170px;
+	border: 8px solid #333333;
+	padding-right: 20px;
+} 
+ 
+ 
+ 
+#wrap{
+	text-align:left;
+	overflow:hidden;
+	width:1000px;
+	height:700px;
+	float: left;
+	clear: none;
+	visibility: visible;
+	padding-left: 0px;
+	padding-top: 5px;
+}
+
+
+
+
+.search-background {
+	display: none;
+	font-size: 13px;
+	background:#999999;
+	color:#FFFFFF;
+	font-weight: bold;
+	height:280px;
+	width:970px;
+	position: absolute;
+	padding-top:150px;
+	text-align: center;
+	opacity:0.5;
+	filter: alpha(opacity=50);
+}
+
+a.button{ padding-top:8px; padding-bottom:8px; width:82px;}
+
+.button, .button:visited {
+	background: #222 url(overlay.png) repeat-x; 
+	display: inline-block; 
+	color: #fff; 
+	text-decoration: none;
+	-moz-border-radius: 6px; 
+	-webkit-border-radius: 6px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+	position: relative;
+	cursor: pointer;
+	text-align:center
+}
+.default {
+	background: #222 url(overlay.png) repeat-x; 
+	display: inline-block; 
+	color: #fff; 
+	text-decoration: none;
+	-moz-border-radius: 6px; 
+	-webkit-border-radius: 6px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+	position: relative;
+	cursor: pointer
+}
+
+.button2 {
+	background: #ccc url(overlay.png) repeat-x; 
+	display: inline-block; 
+	color: #333; 
+	text-decoration: none;
+	-moz-border-radius: 6px; 
+	-webkit-border-radius: 6px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+	position: relative;
+	cursor: pointer
+}
+
+	.button:hover							{ background: #ccc url(overlay.png) repeat-x; 
+	display: inline-block; 
+	color: #333;  }
+	.button:active							{ top: 1px; }

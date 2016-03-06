@@ -1,0 +1,890 @@
+COMPETITION FINANCIAL RATING
+
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 4200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :14700
+Financial condition of godaddy is : B
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A
+
+
+the current equity of the company  :reil is 55000
+the current fiscal growth rate of the company :reil is 1
+calculated financial factor is :55000
+Financial condition of reil is : B
+
+
+the current equity of the company  :girnar is 5000
+the current fiscal growth rate of the company :girnar is 15.5
+calculated financial factor is :77500
+Financial condition of girnar is : B
+
+
+the current equity of the company  :rajcom is 30000
+the current fiscal growth rate of the company :rajcom is 1.5
+calculated financial factor is :45000
+Financial condition of rajcom is : B
+
+
+the current equity of the company  :godaddy is 45200
+the current fiscal growth rate of the company :godaddy is 3.5
+calculated financial factor is :158200
+Financial condition of  godaddy is : A

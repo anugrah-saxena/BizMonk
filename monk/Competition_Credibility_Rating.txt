@@ -1,0 +1,722 @@
+COMPETITION CREDIBILITY RATING
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85.0
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+
+the functional years of the company  :reil is 10
+the current Reputation point of  :reil is 63
+The calculated rating score for company reil is :65.5
+Credibility Rating of company is B
+
+the functional years of the company  :girnar is 3
+the current Reputation point of  :girnar is 45
+The calculated rating score for company girnar is :45.75
+Credibility Rating of company is C
+
+the functional years of the company  :rajcom is 20
+the current Reputation point of  :rajcom is 80
+The calculated rating score for company rajcom is :85
+Credibility Rating of company is AAA
+
+the functional years of the company  :godaddy is 10
+the current Reputation point of  :godaddy is 50
+The calculated rating score for company godaddy is :52.5
+Credibility Rating of company is C
+

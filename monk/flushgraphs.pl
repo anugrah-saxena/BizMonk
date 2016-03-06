@@ -1,0 +1,9 @@
+flush:-
+tell('city_basic_amenities_graph.txt'),told,
+tell('output_amenities.pl'),told,
+tell('city_hr_resource_analysis_graph.txt'),told,
+tell('city_hr_final_graph.txt'),told,
+tell('staff_skill_analysis_graph.txt'),told,
+tell('output_hr.pl'),told,
+tell('output_political.pl'),told,
+tell('split_policy.txt'),told.

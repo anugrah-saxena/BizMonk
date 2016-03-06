@@ -1,0 +1,180 @@
+form{
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#tray{	
+	background-color:#5682F3;
+	border:solid thin #000;
+		
+	margin:2% 0% 2% 0%;
+	
+	height:28px;
+	text-align:center;
+	display:block;
+	
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:larger;
+	
+	font-weight:bold;
+	color:#FF0;
+}
+
+
+.first input,.first select, .company select , .text 
+ {
+	width:22%;
+	border:1px solid #ddd;
+	background:#EAEAEA;
+	font:0.95em Verdana, Geneva, sans-serif;
+	-moz-border-radius:0.4em;
+	-khtml-border-radius:0.4em;
+	-ms-border-radius:0.4em;
+	display:inline-block;
+	margin: 5px  10px 5px 3px;
+	
+ }
+ 
+ .text{
+	 width:3em;
+	 margin:auto;
+ }
+ 
+.first input:focus, .company select:focus , .text:focus, .first textarea:focus{
+	background:#FFF;
+}
+
+ 
+.first textarea
+{   display:inline;
+	-moz-border-radius:0.4em;
+	-khtml-border-radius:0.4em;
+	margin-top:5px;
+	margin-left:3px; 
+	width:20em;
+	border:1px solid #ddd;
+	background:#EAEAEA;
+	font:0.95em Verdana, Geneva, sans-serif;
+}
+ 
+.first label, .company label {
+	width: 32%;
+	display: block;
+	float: left;
+	text-align:right;
+	line-height:25px;
+	margin-top:5px;
+	margin-right:5px;
+	margin: 3px 5px 3px 0;
+
+		
+	
+	}
+	
+fieldset{
+	margin:2% 1% 2% 1%;
+	height: auto;
+	display:block;
+}
+
+fieldset.buttons{
+	padding-left: 10%;
+}
+
+
+.sec label,.third label, .sec_detail label {
+	display: block;
+	width:50%;
+	line-height:25px;
+	float:left;
+	padding-left: 18%;
+
+} 
+
+.sec_detail label{
+	width:78%;
+}
+
+
+	
+.third label, #f_label{
+	width:20%;
+	padding-left:5px;
+	text-align:right;
+}
+#f_label{
+	width:30%;
+}
+	
+.sec span {
+	display:inline-block;
+	text-align:left;
+	width:25%;
+	line-height:25px;
+	
+	
+		
+	}	
+
+/*
+.sec div, .third div{
+	display: block;
+	text-align:left;
+	padding-top:3px;
+	padding-bottom:3px;
+	margin-top: 10px;
+}  
+
+*/
+.third div{
+	height: 28px;
+
+}
+
+
+.checking{
+	display:inline-block;
+	text-align:left;
+	width:79%;
+	line-height:25px;
+	float: right;
+		
+	} 
+.none {
+	display:none;
+}
+
+.lower_help {
+	display:inline-block;
+	text-align:left;
+	width:auto;
+	line-height:15px;
+	padding:3px 5px 3px 5px;
+	margin-left: 33%;
+	border:1px solid black;
+	background-color:gray;
+	color:white;
+	-moz-border-radius:0.4em;
+	-khtml-border-radius:0.4em;
+	font-family: "Comic Sans MS", cursive;
+
+}
+
+.butt{
+	width:150px;
+	height:50px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:24px;
+	text-align:center;
+	margin-right:2em;
+	
+}
+
+#f_span{
+	display: inline-block;
+	line-height: 25px;
+	padding-left: 5px;
+}
+
+.side_help{
+	font-family:"Comic Sans MS", cursive;
+}

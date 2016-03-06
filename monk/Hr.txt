@@ -1,0 +1,84 @@
+
+
+
+##################
+jaipur
+##################
+
+
+Population growth rate for jaipur is 36.087
+Literacy growth rate for jaipur is 12.3077
+Current polpulation in lakhs of city :jaipur   is 31.3
+Current Literacy  of city :jaipur   is 73
+
+
+Labour  Population of city :jaipur   is 8
+Labour  Skill      of city :jaipur   is 55
+labour  Cost       of city :jaipur   is 2900
+
+************
+Calculated Skill cost factor for Labour staff is :18.9655
+Final system generated vaule for Labour in cityjaipur is 3.24483
+************
+Tech Graduate Population of city :jaipur   is 1.5
+Tech Graduate Skill      of city :jaipur   is 56
+Tech Graduate Cost       of city :jaipur   is 20000
+************
+Calculated Skill cost factor for Tech staff is :2.8
+Final system generated vaule for Tech Satff in city   :jaipur is 2.475
+************
+Management Graduate      Population of city :jaipur   is 0.74
+Management Graduate      Skill      of city :jaipur   is 44
+Management Graduate      Cost       of city :jaipur   is 30000
+************
+Calculated Skill cost factor for management staff is :1.46667
+Final system generated vaule for Management Staff in city  :jaipur is   1.9275
+************
+
+
+Final Recommendation section : Software
+FINAL STAFF SYSTEM GENERATED POINTS ARE    :jaipur    2.38518
+
+
+
+
+
+##################
+delhi
+##################
+
+
+Population growth rate for delhi is 40.625
+Literacy growth rate for delhi is 8
+Current polpulation in lakhs of city :delhi   is 180
+Current Literacy  of city :delhi   is 81
+
+
+Labour  Population of city :delhi   is 20
+Labour  Skill      of city :delhi   is 75
+labour  Cost       of city :delhi   is 6100
+
+************
+Calculated Skill cost factor for Labour staff is :12.2951
+Final system generated vaule for Labour in citydelhi is 2.84426
+************
+Tech Graduate Population of city :delhi   is 6.5
+Tech Graduate Skill      of city :delhi   is 86
+Tech Graduate Cost       of city :delhi   is 40000
+************
+Calculated Skill cost factor for Tech staff is :2.15
+Final system generated vaule for Tech Satff in city   :delhi is 3.2375
+************
+Management Graduate      Population of city :delhi   is 4.3
+Management Graduate      Skill      of city :delhi   is 84
+Management Graduate      Cost       of city :delhi   is 65000
+************
+Calculated Skill cost factor for management staff is :1.29231
+Final system generated vaule for Management Staff in city  :delhi is   3.06635
+************
+
+
+Final Recommendation section : Software
+FINAL STAFF SYSTEM GENERATED POINTS ARE    :delhi    3.20837
+
+

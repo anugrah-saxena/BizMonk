@@ -1,0 +1,21 @@
+start:-
+consult('flushgraphs'),
+flush,                                   %/all graphs contain null/
+consult('data_all'),
+consult('allpublicityquery'),
+consult('publicity_tv'),
+consult('publicity_internet'),
+consult('publicity_newspaper'),
+consult('publicity_radio'),
+consult('budget_rating'),
+consult('political_analysis'),
+consult('economic_feasibility_analysis'),
+consult('city_basic_amenities'),
+consult('city_human_resource_analysis'),
+consult('ecoquery'),
+consult('geoquery'),
+consult('output_geo'),
+consult('split.pl'),
+publicity.
+%eco,
+%geo.

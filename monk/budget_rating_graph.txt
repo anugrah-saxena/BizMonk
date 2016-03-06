@@ -1,0 +1,12 @@
+Minimum
+5000
+MinAvg
+17500
+Average
+30000
+MyBudget
+20000
+AvgMax
+42500
+Maximum
+55000

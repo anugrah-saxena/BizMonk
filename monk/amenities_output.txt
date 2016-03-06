@@ -1,0 +1,1 @@
+amenities_output(jaipur,65.1496).amenities_output(delhi,91.2735).amenities_output(mumbai,91.9872).amenities_output(hyderabad,64.1667).amenities_output(delhi,91.2735).amenities_output(noida,46.9017).

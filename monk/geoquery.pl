@@ -1,0 +1,1 @@
+geo:-r(product_based,[delhi,noida]),q([delhi,noida],product_based),k(ssi,product_based,india,[delhi,noida]),w([delhi,noida],10,7,4).
